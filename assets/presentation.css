@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "ToshibaLCD";
+  src: url("../Px437_ToshibaLCD_8x8.woff");
+}
+body{
+  margin: 0;
+}
+a{
+  text-decoration: none;
+}
+.slide a{
+  color: #000;
+}
+.slide{
+  height: 100vh;
+  width: 100%;
+}
+#titleslide{
+  color: #fff;
+  background-color: #000;
+}
+.pixelface{
+  width: 100%;
+}
+.eightbittitle {
+  font-family: "ToshibaLCD";
+  text-transform: uppercase;
+  font-size: 30px;
+  text-align: justify;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.titletext{
+  font-size: 40px;
+  font-family: 'Work Sans', sans-serif;
+  line-height: 46px;
+  font-weight:900;
+  color: #000;
+  margin: 20px;
+}
+.infotext{
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 20px;
+  color: #000;
+  padding: 20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
