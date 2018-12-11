@@ -49,3 +49,25 @@ a{
   margin-left: auto;
   margin-right: auto;
 }
+.casestudy{
+  width: 49%;
+  display: inline-block;
+  text-align:center;
+}
+.casestudy img{
+  height: 50vh;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.casestudyfriend{
+  width: 49%;
+  display: inline-block;
+  text-align: center;
+}
+.casestudyfriend img{
+  height: 50vh;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
